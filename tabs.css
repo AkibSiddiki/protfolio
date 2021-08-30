@@ -17,6 +17,11 @@ p {
   font-weight: 300;
   font-size: 1em;
 }
+pre {
+  line-height: 1.51em;
+  font-weight: 300;
+  font-size: 1em;
+}
 
 .category {
   text-transform: capitalize;
@@ -279,16 +284,3 @@ footer p a:hover {
   color: #e86c42;
 }
 
-@media screen and (max-width: 768px) {
-  .nav-tabs {
-    display: inline-block;
-    width: 100%;
-    padding-left: 100px;
-    padding-right: 100px;
-    text-align: center;
-  }
-
-  .nav-tabs .nav-item > .nav-link {
-    margin-bottom: 5px;
-  }
-}
