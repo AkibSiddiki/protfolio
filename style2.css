@@ -67,6 +67,6 @@ a:active { text-decoration: none; }
     .position-relative.text-center { height: 320px; }
     .bg-dark { --bs-bg-opacity: 100%; background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important; }
     .btn { font-size: 12px; }
-    .img-r-2 { width: 376px; height: 185px; object-fit: cover; }
+    .img-r-2 { width: 430px; height: 185px; object-fit: cover; }
     .bi { font-size: 35px !important; }
   }
